@@ -1,5 +1,5 @@
 # CompareProteinHits
-for the castello lab for quick proteomic comparisons
+RNA shiny app using SQL db for the castello lab for quick proteomic comparisons
 
 >This repository stores the server and ui r scripts needed to run an R Shiny app using SQL database. 
 >The aim of this app is to access different protein datasets (through the SQL database) and produce comparisons via venn diagram plotting of common/independent proteins/genes.
